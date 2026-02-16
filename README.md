@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
+| [0779-k-th-symbol-in-grammar](https://github.com/malayabounteous/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Dynamic Programming
 |  |
@@ -82,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/malayabounteous/dsa/tree/master/0190-reverse-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/malayabounteous/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/malayabounteous/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
