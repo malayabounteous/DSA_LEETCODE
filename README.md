@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/malayabounteous/dsa/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/malayabounteous/dsa/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/malayabounteous/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0965-univalued-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0965-univalued-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/malayabounteous/dsa/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
