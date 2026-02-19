@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/malayabounteous/dsa/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
+| [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/malayabounteous/dsa/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [3713-longest-balanced-substring-i](https://github.com/malayabounteous/dsa/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
