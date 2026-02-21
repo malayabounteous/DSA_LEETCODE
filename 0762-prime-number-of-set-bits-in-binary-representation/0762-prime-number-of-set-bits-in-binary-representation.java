@@ -29,7 +29,7 @@ class Solution {
         int ans=0;
         while(left<=right)
         {
-            int cnt=countSet(left);
+            int cnt=Integer.bitCount(left);
             //System.out.print(cnt+" ");
             if(checkPrime(cnt))
             ans++;
