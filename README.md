@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/malayabounteous/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/malayabounteous/dsa/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/malayabounteous/dsa/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/malayabounteous/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
