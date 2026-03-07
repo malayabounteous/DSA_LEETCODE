@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/malayabounteous/dsa/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/malayabounteous/dsa/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/malayabounteous/dsa/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/malayabounteous/dsa/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/malayabounteous/dsa/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/malayabounteous/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/malayabounteous/dsa/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/malayabounteous/dsa/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/malayabounteous/dsa/tree/master/0401-binary-watch) |
 ## Rolling Hash
 |  |
