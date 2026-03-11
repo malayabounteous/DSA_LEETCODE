@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/malayabounteous/dsa/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/malayabounteous/dsa/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/malayabounteous/dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0965-univalued-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/malayabounteous/dsa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/malayabounteous/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/malayabounteous/dsa/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
@@ -180,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
