@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/malayabounteous/dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/malayabounteous/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/malayabounteous/dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/malayabounteous/dsa/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/malayabounteous/dsa/tree/master/0401-binary-watch) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/malayabounteous/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
