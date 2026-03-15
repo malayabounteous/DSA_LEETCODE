@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/malayabounteous/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/malayabounteous/dsa/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/malayabounteous/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
