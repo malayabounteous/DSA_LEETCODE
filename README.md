@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/malayabounteous/dsa/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/malayabounteous/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/malayabounteous/dsa/tree/master/0799-champagne-tower) |
 ## Bit Manipulation
