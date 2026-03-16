@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/malayabounteous/dsa/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/malayabounteous/dsa/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
