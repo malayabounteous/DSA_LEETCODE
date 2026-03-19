@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/malayabounteous/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/malayabounteous/dsa/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/malayabounteous/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/malayabounteous/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/malayabounteous/dsa/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/malayabounteous/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/malayabounteous/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/malayabounteous/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search Tree
 |  |
 | ------- |
