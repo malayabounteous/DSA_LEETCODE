@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/malayabounteous/dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/malayabounteous/dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/malayabounteous/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
 | [0799-champagne-tower](https://github.com/malayabounteous/dsa/tree/master/0799-champagne-tower) |
 ## Bit Manipulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/malayabounteous/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/malayabounteous/dsa/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/malayabounteous/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
