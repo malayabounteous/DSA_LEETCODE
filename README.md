@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/malayabounteous/dsa/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/malayabounteous/dsa/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/malayabounteous/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/malayabounteous/dsa/tree/master/0002-add-two-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/malayabounteous/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/malayabounteous/dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Tree
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/malayabounteous/dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
