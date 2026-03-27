@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/malayabounteous/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/malayabounteous/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/malayabounteous/dsa/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
@@ -305,5 +306,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/malayabounteous/dsa/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/malayabounteous/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/malayabounteous/dsa/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/malayabounteous/dsa/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
