@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/malayabounteous/dsa/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/malayabounteous/dsa/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/malayabounteous/dsa/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/malayabounteous/dsa/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/malayabounteous/dsa/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/malayabounteous/dsa/tree/master/0074-search-a-2d-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/malayabounteous/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/malayabounteous/dsa/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/malayabounteous/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/malayabounteous/dsa/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/malayabounteous/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/malayabounteous/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/malayabounteous/dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
