@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/malayabounteous/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/malayabounteous/dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/malayabounteous/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/malayabounteous/dsa/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/malayabounteous/dsa/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/malayabounteous/dsa/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
