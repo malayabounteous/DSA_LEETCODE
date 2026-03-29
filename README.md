@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/malayabounteous/dsa/tree/master/0011-container-with-most-water) |
+| [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/malayabounteous/dsa/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/malayabounteous/dsa/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/malayabounteous/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
