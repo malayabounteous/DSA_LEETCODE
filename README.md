@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/malayabounteous/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/malayabounteous/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/malayabounteous/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/malayabounteous/dsa/tree/master/0152-maximum-product-subarray) |
 | [0799-champagne-tower](https://github.com/malayabounteous/dsa/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/malayabounteous/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Bit Manipulation
