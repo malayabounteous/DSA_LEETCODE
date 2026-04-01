@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/malayabounteous/dsa/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/malayabounteous/dsa/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/malayabounteous/dsa/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/malayabounteous/dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/malayabounteous/dsa/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/malayabounteous/dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/malayabounteous/dsa/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/malayabounteous/dsa/tree/master/0045-jump-game-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/malayabounteous/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/malayabounteous/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/malayabounteous/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/malayabounteous/dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
