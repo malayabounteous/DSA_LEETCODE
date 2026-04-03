@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/malayabounteous/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/malayabounteous/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/malayabounteous/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/malayabounteous/dsa/tree/master/0198-house-robber) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/malayabounteous/dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/malayabounteous/dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/malayabounteous/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/malayabounteous/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/malayabounteous/dsa/tree/master/0152-maximum-product-subarray) |
