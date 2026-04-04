@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/malayabounteous/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/malayabounteous/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/malayabounteous/dsa/tree/master/0198-house-robber) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/malayabounteous/dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/malayabounteous/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/malayabounteous/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/malayabounteous/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/malayabounteous/dsa/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/malayabounteous/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/malayabounteous/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/malayabounteous/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/malayabounteous/dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/malayabounteous/dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/malayabounteous/dsa/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/malayabounteous/dsa/tree/master/0279-perfect-squares) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/malayabounteous/dsa/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -430,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/malayabounteous/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
