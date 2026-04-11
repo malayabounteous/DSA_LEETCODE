@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/malayabounteous/dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/malayabounteous/dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/malayabounteous/dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/malayabounteous/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/malayabounteous/dsa/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/malayabounteous/dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
