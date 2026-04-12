@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/malayabounteous/dsa/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/malayabounteous/dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/malayabounteous/dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/malayabounteous/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/malayabounteous/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0799-champagne-tower](https://github.com/malayabounteous/dsa/tree/master/0799-champagne-tower) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/malayabounteous/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/malayabounteous/dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/malayabounteous/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/malayabounteous/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/malayabounteous/dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
