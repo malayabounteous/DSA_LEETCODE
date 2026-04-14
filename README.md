@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/malayabounteous/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/malayabounteous/dsa/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/malayabounteous/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/malayabounteous/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/malayabounteous/dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/malayabounteous/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/malayabounteous/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/malayabounteous/dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Bit Manipulation
 |  |
