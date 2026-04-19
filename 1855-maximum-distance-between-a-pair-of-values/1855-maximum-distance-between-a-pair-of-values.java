@@ -28,14 +28,18 @@ class Solution {
         int n2=nums2.length;
 
         int ans=0;
-
-        for(int i=n1-1;i>=0;--i)
+        int j=n1-1;
+        for(int i=n2-1;i>=0;--i)
         {
-            int ind=lower_bound(nums1[i],nums2);
-            System.out.println(ind);
-            if( i<=ind && nums1[i]<=nums2[ind])
-            ans=Math.max(ans,ind-i);
-            
+            while(j>=0 && nums1[j]<=nums2[i])
+            {
+                //System.out.print(". ");
+                if(i>=j)
+                ans=Math.max(ans,i-j);
+                j--;
+            }
+
+
         }
         return ans;
     }
