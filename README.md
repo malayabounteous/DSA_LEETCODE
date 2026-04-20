@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/malayabounteous/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/malayabounteous/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/malayabounteous/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0554-brick-wall](https://github.com/malayabounteous/dsa/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/malayabounteous/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/malayabounteous/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/malayabounteous/dsa/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
