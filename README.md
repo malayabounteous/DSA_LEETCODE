@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/malayabounteous/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/malayabounteous/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/malayabounteous/dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/malayabounteous/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/malayabounteous/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/malayabounteous/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/malayabounteous/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/malayabounteous/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/malayabounteous/dsa/tree/master/0139-word-break) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/malayabounteous/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Counting Sort
 |  |
 | ------- |
