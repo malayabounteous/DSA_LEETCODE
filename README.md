@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/malayabounteous/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
+| [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/malayabounteous/dsa/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/malayabounteous/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/malayabounteous/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/malayabounteous/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/malayabounteous/dsa/tree/master/3713-longest-balanced-substring-i) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/malayabounteous/dsa/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/malayabounteous/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/malayabounteous/dsa/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
