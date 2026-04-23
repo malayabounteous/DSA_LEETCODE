@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/malayabounteous/dsa/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
+| [0983-minimum-cost-for-tickets](https://github.com/malayabounteous/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/malayabounteous/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/malayabounteous/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/malayabounteous/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0799-champagne-tower](https://github.com/malayabounteous/dsa/tree/master/0799-champagne-tower) |
+| [0983-minimum-cost-for-tickets](https://github.com/malayabounteous/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/malayabounteous/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/malayabounteous/dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/malayabounteous/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
