@@ -14,7 +14,7 @@ class Solution {
             {
                end=Math.max(end,intervals[i][1]);
             }
-            else if(intervals[i][0]>end)
+            else 
             {
                 ans.add(new int[]{start,end});
                 start=intervals[i][0];
