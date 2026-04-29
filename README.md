@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0983-minimum-cost-for-tickets](https://github.com/malayabounteous/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/malayabounteous/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/malayabounteous/dsa/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0965-univalued-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/malayabounteous/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0965-univalued-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/malayabounteous/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/malayabounteous/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/malayabounteous/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/malayabounteous/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -508,5 +512,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
