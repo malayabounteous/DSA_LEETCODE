@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/malayabounteous/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/malayabounteous/dsa/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/malayabounteous/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/malayabounteous/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/malayabounteous/dsa/tree/master/0416-partition-equal-subset-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/malayabounteous/dsa/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/malayabounteous/dsa/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/malayabounteous/dsa/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/malayabounteous/dsa/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/malayabounteous/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/malayabounteous/dsa/tree/master/0055-jump-game) |
+| [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/malayabounteous/dsa/tree/master/0561-array-partition) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/malayabounteous/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/malayabounteous/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/malayabounteous/dsa/tree/master/0853-car-fleet) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/malayabounteous/dsa/tree/master/0853-car-fleet) |
 ## String Matching
