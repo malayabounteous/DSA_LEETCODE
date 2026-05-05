@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/malayabounteous/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/malayabounteous/dsa/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/malayabounteous/dsa/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/malayabounteous/dsa/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/malayabounteous/dsa/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/malayabounteous/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/malayabounteous/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/malayabounteous/dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/malayabounteous/dsa/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/malayabounteous/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/malayabounteous/dsa/tree/master/0206-reverse-linked-list) |
