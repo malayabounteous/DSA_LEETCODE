@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/malayabounteous/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/malayabounteous/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/malayabounteous/dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/malayabounteous/dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/malayabounteous/dsa/tree/master/0055-jump-game) |
 | [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/malayabounteous/dsa/tree/master/0561-array-partition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/malayabounteous/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/malayabounteous/dsa/tree/master/0561-array-partition) |
 | [0853-car-fleet](https://github.com/malayabounteous/dsa/tree/master/0853-car-fleet) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/malayabounteous/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
