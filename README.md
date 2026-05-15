@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
+| [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/malayabounteous/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/malayabounteous/dsa/tree/master/0206-reverse-linked-list) |
+| [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -541,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
