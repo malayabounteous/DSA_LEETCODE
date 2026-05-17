@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
 | [0983-minimum-cost-for-tickets](https://github.com/malayabounteous/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/malayabounteous/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1306-jump-game-iii](https://github.com/malayabounteous/dsa/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/malayabounteous/dsa/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0965-univalued-binary-tree) |
+| [1306-jump-game-iii](https://github.com/malayabounteous/dsa/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/malayabounteous/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/malayabounteous/dsa/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/malayabounteous/dsa/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/malayabounteous/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
