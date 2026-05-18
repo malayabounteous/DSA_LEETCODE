@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0554-brick-wall](https://github.com/malayabounteous/dsa/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/malayabounteous/dsa/tree/master/0561-array-partition) |
+| [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/malayabounteous/dsa/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
+| [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Hash Function
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/malayabounteous/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/malayabounteous/dsa/tree/master/0206-reverse-linked-list) |
+| [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
 ## Monotonic Queue
 |  |
 | ------- |
