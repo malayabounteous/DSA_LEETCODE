@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/malayabounteous/dsa/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/malayabounteous/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
 | [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Hash Function
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0321-create-maximum-number](https://github.com/malayabounteous/dsa/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/malayabounteous/dsa/tree/master/0853-car-fleet) |
+| [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
 ## Memoization
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/malayabounteous/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/malayabounteous/dsa/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
+| [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 ## Quickselect
 |  |
 | ------- |
@@ -562,5 +567,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
