@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/malayabounteous/dsa/tree/master/1345-jump-game-iv) |
+| [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/malayabounteous/dsa/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/malayabounteous/dsa/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/malayabounteous/dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/malayabounteous/dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/malayabounteous/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/malayabounteous/dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
+| [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 ## Hash Function
 |  |
