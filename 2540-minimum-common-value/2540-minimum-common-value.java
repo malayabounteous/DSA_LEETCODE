@@ -9,11 +9,7 @@ class Solution {
          {
             if(nums1[i]==nums2[j])
             return nums1[i];
-            while(i<n1 && j<n2 && nums1[i]==nums2[j])
-            {
-                i++;j++;
-            }
-            if(i<n1 && j<n2 && nums1[i]>nums2[j])
+            if(nums1[i]>nums2[j])
             j++;
             else
             i++;
