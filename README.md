@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/malayabounteous/dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/malayabounteous/dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3815-design-auction-system](https://github.com/malayabounteous/dsa/tree/master/3815-design-auction-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 | [2502-design-memory-allocator](https://github.com/malayabounteous/dsa/tree/master/2502-design-memory-allocator) |
+| [3815-design-auction-system](https://github.com/malayabounteous/dsa/tree/master/3815-design-auction-system) |
 ## Hash Function
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/malayabounteous/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/malayabounteous/dsa/tree/master/0347-top-k-frequent-elements) |
+| [3815-design-auction-system](https://github.com/malayabounteous/dsa/tree/master/3815-design-auction-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -580,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/malayabounteous/dsa/tree/master/3815-design-auction-system) |
 <!---LeetCode Topics End-->
