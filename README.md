@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/malayabounteous/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
+| [2502-design-memory-allocator](https://github.com/malayabounteous/dsa/tree/master/2502-design-memory-allocator) |
 | [2540-minimum-common-value](https://github.com/malayabounteous/dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malayabounteous/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2502-design-memory-allocator](https://github.com/malayabounteous/dsa/tree/master/2502-design-memory-allocator) |
 | [2540-minimum-common-value](https://github.com/malayabounteous/dsa/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/malayabounteous/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
+| [2502-design-memory-allocator](https://github.com/malayabounteous/dsa/tree/master/2502-design-memory-allocator) |
 ## Hash Function
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/malayabounteous/dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/malayabounteous/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2502-design-memory-allocator](https://github.com/malayabounteous/dsa/tree/master/2502-design-memory-allocator) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malayabounteous/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/malayabounteous/dsa/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/malayabounteous/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
