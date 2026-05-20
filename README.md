@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/malayabounteous/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
+| [2241-design-an-atm-machine](https://github.com/malayabounteous/dsa/tree/master/2241-design-an-atm-machine) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/malayabounteous/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/malayabounteous/dsa/tree/master/2463-minimum-total-distance-traveled) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malayabounteous/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2241-design-an-atm-machine](https://github.com/malayabounteous/dsa/tree/master/2241-design-an-atm-machine) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/malayabounteous/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/malayabounteous/dsa/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
+| [2241-design-an-atm-machine](https://github.com/malayabounteous/dsa/tree/master/2241-design-an-atm-machine) |
 | [2502-design-memory-allocator](https://github.com/malayabounteous/dsa/tree/master/2502-design-memory-allocator) |
 | [3815-design-auction-system](https://github.com/malayabounteous/dsa/tree/master/3815-design-auction-system) |
 ## Hash Function
