@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3488-closest-equal-element-queries](https://github.com/malayabounteous/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/malayabounteous/dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/malayabounteous/dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/malayabounteous/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/malayabounteous/dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/malayabounteous/dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/malayabounteous/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2241-design-an-atm-machine](https://github.com/malayabounteous/dsa/tree/master/2241-design-an-atm-machine) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/malayabounteous/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3689-maximum-total-subarray-value-i](https://github.com/malayabounteous/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
