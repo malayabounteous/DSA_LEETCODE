@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/malayabounteous/dsa/tree/master/0561-array-partition) |
 | [0641-design-circular-deque](https://github.com/malayabounteous/dsa/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/malayabounteous/dsa/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/malayabounteous/dsa/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/malayabounteous/dsa/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/malayabounteous/dsa/tree/master/0874-walking-robot-simulation) |
 | [0983-minimum-cost-for-tickets](https://github.com/malayabounteous/dsa/tree/master/0983-minimum-cost-for-tickets) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/malayabounteous/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/malayabounteous/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/malayabounteous/dsa/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/malayabounteous/dsa/tree/master/0835-image-overlap) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/malayabounteous/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/malayabounteous/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
