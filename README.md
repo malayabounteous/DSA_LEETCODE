@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/malayabounteous/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/malayabounteous/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malayabounteous/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/malayabounteous/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/malayabounteous/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/malayabounteous/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-design-underground-system](https://github.com/malayabounteous/dsa/tree/master/1396-design-underground-system) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/malayabounteous/dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/malayabounteous/dsa/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malayabounteous/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1797-design-authentication-manager](https://github.com/malayabounteous/dsa/tree/master/1797-design-authentication-manager) |
 | [1980-find-unique-binary-string](https://github.com/malayabounteous/dsa/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/malayabounteous/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malayabounteous/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2615-sum-of-distances](https://github.com/malayabounteous/dsa/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/malayabounteous/dsa/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/malayabounteous/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/malayabounteous/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/malayabounteous/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/malayabounteous/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malayabounteous/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/malayabounteous/dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/malayabounteous/dsa/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/malayabounteous/dsa/tree/master/3488-closest-equal-element-queries) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/malayabounteous/dsa/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/malayabounteous/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/malayabounteous/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malayabounteous/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malayabounteous/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
